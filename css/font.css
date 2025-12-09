@@ -1,0 +1,139 @@
+@font-face {
+    font-family:"morne" ;
+    src: url(../fonts/morne-display-typeface/morne.ttf);
+}
+@font-face {
+    font-family:"reifilano-med" ;
+    src: url(../fonts/reifilano/ReifilanoMedium.otf);
+}
+@font-face {
+    font-family:"reifilano-semibold" ;
+    src: url(../fonts/reifilano/ReifilanoSemibold.otf);
+}
+@font-face {
+    font-family:"reifilano-reg" ;
+    src: url(../fonts/reifilano/ReifilanoRegular.otf);
+}
+.reifilano-med{
+font-family:"reifilano-med" ;
+}
+.reifilano-semibold{
+     font-family:"reifilano-semibold" ;
+}
+.reifilano-reg{
+     font-family:"reifilano-reg" ;
+}
+.morne-font{
+     font-family:"morne" ;
+}
+.montserrat_font {
+    font-family: "Montserrat", serif;
+  }
+  .fw_light{
+    font-weight: 300;
+  }
+.fw_reg{
+font-weight: 400;
+}
+.fw_med{
+    font-weight: 500;
+}
+.fw_semibold{
+    font-weight: 600;
+}
+.fw_bold{
+    font-weight: 700;
+}
+.main_heading{
+    font-size: 80px;
+}
+.level-1{
+    font-size: 45px;
+}
+.level-2{
+font-size: 40px;
+}
+.level-3{
+    font-size: 30px;
+}
+.level-4{
+    font-size: 22px;
+}
+.level-5{
+    font-size: 20px;
+}
+.level-6{
+    font-size: 16px;
+}
+.level-7{
+    font-size: 14px;
+}
+.level-8{
+    font-size: 12px;
+}
+.level-9{
+    font-size: 10px;
+}
+@media(max-width:1023px){
+    .level-1{
+        font-size: 40px;
+    }
+    .level-2{
+    font-size: 35px;
+    }
+    .level-3{
+        font-size: 30px;
+    }
+    .level-4{
+        font-size: 20px;
+    }
+    .level-5{
+        font-size: 18px;
+    }
+    .level-6{
+        font-size: 15px;
+    }
+    .level-7{
+        font-size: 14px;
+    }
+    .main_heading{
+        font-size: 55px;
+    }
+}
+@media(max-width:800px){
+    .level-1{
+        font-size: 35px;
+    }
+    .level-2{
+    font-size: 30px;
+    }
+    .level-3{
+        font-size: 25px;
+    }
+    .level-4{
+        font-size: 18px;
+    }
+    .level-5{
+        font-size: 16px;
+    }
+    .level-6{
+        font-size: 12px;
+    }
+    .level-7{
+        font-size: 11px;
+    }
+     .main_heading{
+        font-size: 45px;
+    }
+}
+@media(max-width:700px){
+    .level-1{
+        font-size: 25px;
+    }
+    .level-2{
+    font-size: 20px;
+    }
+    .level-8{
+        font-size: 10px;
+    }
+}

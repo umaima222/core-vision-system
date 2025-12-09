@@ -1,0 +1,85 @@
+/* Variable Css Start Here */
+/* Font cdn starts here */
+@font-face {
+	font-family: "Poppins-Light";
+	src: url("../fonts/Poppins/Poppins-Light.ttf");
+}
+
+@font-face {
+	font-family: "Poppins-bold";
+	src: url("../fonts/Poppins/Poppins-Bold.ttf");
+}
+
+@font-face {
+	font-family: "Poppins-semibold";
+	src: url("../fonts/Poppins/Poppins-SemiBold.ttf");
+}
+
+@font-face {
+	font-family: "Poppins-medium";
+	src: url("../fonts/Poppins/Poppins-Medium.ttf");
+}
+
+@font-face {
+	font-family: "Poppins-regular";
+	src: url("../fonts/Poppins/Poppins-Regular.ttf");
+}
+
+@font-face {
+	font-family: "Montserrat-bold";
+	src: url("../fonts/Montserrat/Montserrat-Bold.ttf");
+}
+
+@font-face {
+	font-family: "Montserrat-semibold";
+	src: url("../fonts/Montserrat/Montserrat-SemiBold.ttf");
+}
+
+@font-face {
+	font-family: "Montserrat-medium";
+	src: url("../fonts/Montserrat/Montserrat-Medium.ttf");
+}
+
+@font-face {
+	font-family: "Montserrat-reg";
+	src: url("../fonts/Montserrat/Montserrat-Regular.ttf");
+}
+
+/* Font cdn ends here */
+:root {
+	/* Typography starts here */
+	--font-default: "Poppins-regular";
+	--font-heading: "Montserrat-semibold";
+	--font-btn: "Poppins-regular";
+	--font-poppin-bold: "Poppins-bold";
+	--font-poppin-semibold: "Poppins-semibold";
+	--font-poppin-medium: "Poppins-medium";
+	--font-montserrat-bold: "Montserrat-bold";
+	--font-montserrat-medium: "Montserrat-medium";
+	--font-montserrat-regular: "Montserrat-regular";
+	--font-light: "Poppins-Light";
+	--font-montserrat-regular: "Montserrat-reg";
+	/* Typography ends here */
+
+	 --cyan-glow: #33D5FF;
+    --purple-glow: #9D4CFF;
+    --pink-neon: #FF4BD1;
+	 --quantum-blue: #4c74ff;
+	 --text-color-1:#3b82f6;
+    /* --quantum-blue: #00F5FF; */
+    --ai-purple: #B794F6;
+    --neural-green: #00FF88;
+    --dark-bg: #0a0a0f;
+    --dark-secondary: #1a1a2e;
+    --dark-tertiary: #16213e;
+    --quantum-dark: #050510;
+    --text-primary: #ffffff;
+    --text-secondary: #b8b8d0;
+    --glass-bg: rgba(255, 255, 255, 0.03);
+    --glass-border: rgba(255, 255, 255, 0.08);
+    --quantum-glow: rgba(0, 245, 255, 0.3);
+    --ai-glow: rgba(183, 148, 246, 0.3);
+
+}
+
+/* Variable Css End Here */

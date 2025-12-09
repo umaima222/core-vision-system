@@ -1,0 +1,199 @@
+.z-index-1 {
+  z-index: 1;
+}
+.z-index-2 {
+  z-index: 2;
+}
+.z-index-99 {
+  z-index: 99;
+}
+.z-index-999 {
+  z-index: 999;
+}
+.z-index-99999 {
+  z-index: 999999;
+}
+.rounded-radius-1{
+  border-radius: 25px;
+}
+.orbit-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  overflow: hidden;
+}
+.floating-shape {
+  position: absolute;
+  background: rgba(0, 255, 255, 0.1);
+  border: 1px solid #570b44;
+  border-radius: 50%;
+  animation: orbitMorph 25s linear infinite;
+  box-shadow: 0 0 20px rgba(54, 2, 46, 0.7);
+  transform-style: preserve-3d;
+}
+.floating-shape:nth-child(1) {
+  width: 60px;
+  height: 60px;
+  top: 10%;
+  left: 10%;
+  animation-duration: 20s;
+}
+.floating-shape:nth-child(2) {
+  width: 40px;
+  height: 40px;
+  top: 20%;
+  right: 10%;
+  animation-duration: 30s;
+  /* border-radius: 20% 80% 60% 40%; */
+}
+.floating-shape:nth-child(3) {
+  width: 80px;
+  height: 80px;
+  bottom: 20%;
+  left: 20%;
+  animation-duration: 25s;
+  /* border-radius: 60% 40% 80% 20%; */
+}
+.floating-shape:nth-child(4) {
+  width: 50px;
+  height: 50px;
+  bottom: 10%;
+  right: 20%;
+  animation-duration: 35s;
+}
+.floating-shape:nth-child(5) {
+  width: 70px;
+  height: 70px;
+  top: 50%;
+  left: 50%;
+  animation-duration: 40s;
+  /* border-radius: 40% 60% 20% 80%; */
+}
+.floating-shape:nth-child(6) {
+  width: 90px;
+  height: 90px;
+  top: 30%;
+  right: 30%;
+  animation-duration: 45s;
+}
+.floating-shape:nth-child(7) {
+  width: 30px;
+  height: 30px;
+  bottom: 30%;
+  left: 30%;
+  animation-duration: 50s;
+  /* border-radius: 80% 20% 40% 60%; */
+}
+@keyframes orbitMorph {
+  0% {
+    transform: translateZ(0) rotate(0deg) translateX(150px) rotate(0deg)
+      scale(1);
+    opacity: 0.3;
+    /* border-radius: 50%; */
+  }
+  25% {
+    transform: translateZ(100px) rotate(90deg) translateX(150px) rotate(-90deg)
+      scale(1.2);
+    opacity: 0.7;
+    /* border-radius: 20% 80%; */
+  }
+  50% {
+    transform: translateZ(-50px) rotate(180deg) translateX(150px)
+      rotate(-180deg) scale(0.8);
+    opacity: 1;
+    /* border-radius: 80% 20%; */
+  }
+  75% {
+    transform: translateZ(50px) rotate(270deg) translateX(150px) rotate(-270deg)
+      scale(1.1);
+    opacity: 0.6;
+    /* border-radius: 40% 60%; */
+  }
+  100% {
+    transform: translateZ(0) rotate(360deg) translateX(150px) rotate(-360deg)
+      scale(1);
+    opacity: 0.3;
+    /* border-radius: 50%; */
+  }
+} 
+/* #orbitBg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  overflow: hidden;
+}
+
+.floating-shape {
+  position: absolute;
+  background: linear-gradient(135deg,#33D5FF,#9D4CFF,#FF4BD1);
+  filter: drop-shadow(0 0 15px #33D5FF) drop-shadow(0 0 20px #FF4BD1);
+  mix-blend-mode: screen;
+  border-radius: 40% 60% 60% 40%;
+  animation: floatUpDown linear infinite;
+}
+
+.orbit-dot {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  background:var( --purple-glow);
+  border-radius: 50%;
+  filter: drop-shadow(0 0 8px cyan);
+  animation: floatUpDown linear infinite;
+}
+
+
+@keyframes floatUpDown {
+  0% { transform: translateY(-100%) rotate(0deg); }
+  50% { transform: translateY(50vh) rotate(180deg); }
+  100% { transform: translateY(100vh) rotate(360deg); }
+}  */
+ 
+.btn-liquid {
+  /* background: linear-gradient(45deg, #00ffff, #0080ff); */
+  background: linear-gradient(45deg, #9D4CFF, #0080ff);
+  transition: all 0.3s;
+  box-shadow: 0 0 30px rgba(0, 255, 255, 0.5);
+  transform: translateZ(10px);
+  letter-spacing: 2px;
+ 
+}
+.btn-liquid:hover {
+  transform: translateZ(20px) scale(1.1);
+  box-shadow: 0 0 50px #00ffff;
+}
+
+/* sidebar nav */
+
+
+/* =====================================================
+            BUTTONS (Neon Pink CTA Focus)
+        ===================================================== */
+.btn-neon {
+  background-color: var(--neon-blue) !important;
+  color: var(--primary-dark) !important;
+  font-weight: 600;
+  border: 2px solid transparent !important;
+  transition: all 0.3s ease-in-out;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(76, 116, 255, 0.5);
+  /* Initial blue glow */
+  border-radius: 50rem !important;
+}
+
+.btn-neon:hover {
+  background-color: var(--pink-neon) !important;
+  color: var(--primary-dark) !important;
+  border-color: var(--pink-neon) !important;
+  box-shadow: 0 0 10px var(--pink-neon), 0 0 30px var(--pink-neon),
+    0 0 60px rgba(255, 75, 209, 0.4) !important;
+  /* Strong Pink Glow */
+  transform: scale(1.05) !important;
+}
