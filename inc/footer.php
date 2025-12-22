@@ -6,9 +6,9 @@
 
             <!-- Brand Section -->
             <div class="col-md-4 footer-brand quantum-brand text-center text-md-start mb-4 mb-md-0">
-                <div class="footer-logo"><img src="img/web-logo1.png" alt="" class="img-fluid"></div>
+                <div class="footer-logo"><a href="index.php"><img src="img/web-logo1.png" alt="" class="img-fluid"></a></div>
                 <!-- <h3 class="footer-title morphing-title">CORE VISION</h3> -->
-                <p class="footer-subtitle quantum-subtitle text-white fw_reg">Crafting the quantum future of digital experiences</p>
+                <p class="footer-subtitle quantum-subtitle text-white fw_reg">We provide all-in-one digital solutions—web development, WordPress, content creation, SEO, and digital marketing. Our mission is to help businesses grow, engage their audience, and succeed online</p>
                 <div class="footer-social quantum-social d-flex justify-content-center justify-content-md-start gap-3">
                     <a href="#" class="footer-social-icon d-flex align-items-center justify-content-center text-decoration-none quantum-icon morph-icon position-relative">
                         <i class="fab fa-twitter text-white level-5"></i>

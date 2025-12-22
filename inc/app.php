@@ -27,8 +27,8 @@
         </div>
     </div> -->
     <div class="" id="preloader">
-    <div class="loader"></div>
-</div>
+        <div class="loader"></div>
+    </div>
 
     <!-- Site Loader End Here -->
     <div class="cursor" id="cursor"></div>

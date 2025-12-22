@@ -35,7 +35,9 @@
 
             <!-- Brand -->
             <div class="nav-brand d-flex align-items-center justify-content-between px-4  position-relative z-index-2">
-                <img src="img/logo.png" alt="" class="img-fluid" width="80" height="90">
+                <a href="index.php">
+                    <img src="img/logo.png" alt="" class="img-fluid" width="80" height="90">
+                </a>
                 <!-- <div class="brand-glow"></div>
             <div class="brand-particles"></div> -->
             </div>
@@ -43,7 +45,7 @@
             <!-- Menu -->
             <ul class="nav-menu d-flex list-unstyled m-0 gap-4">
                
-                    <li><a href="home2.php" class="nav-link quantum-link text-white level-5 text-uppercase fw_med position-relative text-decoration-none">HOME</a></li>
+                    <li><a href="index.php" class="nav-link quantum-link text-white level-5 text-uppercase fw_med position-relative text-decoration-none">HOME</a></li>
                     <li><a href="service.php" class="nav-link quantum-link text-white level-5 text-uppercase fw_med position-relative text-decoration-none">SERVICES</a></li>
                     <li><a href="about.php" class="nav-link quantum-link text-white level-5 text-uppercase fw_med position-relative text-decoration-none">ABOUT</a></li>
                     <li><a href="testimonial.php" class="nav-link quantum-link text-white level-5 text-uppercase fw_med position-relative text-decoration-none">TESTIMONIALS</a></li>

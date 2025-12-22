@@ -304,9 +304,8 @@
                             </div>
 
                             <p class="testimonial-text text-white fw_reg mb-4">
-                                "Core Vision's enterprise solutions transformed our digital infrastructure completely. Their innovative AI approach and attention to detail resulted in a platform that exceeded all our expectations."
+                                The team transformed our website and digital strategy. Their work on design, SEO, and content has significantly boosted our traffic and engagement online
                             </p>
-
                             <div class="d-flex align-items-center border-top border-secondary pt-3">
                                 <div class="avatar-placeholder me-3"></div>
                                 <div>
@@ -333,8 +332,7 @@
                             </div>
 
                             <p class="testimonial-text text-white fw_reg mb-4">
-The team transformed our website and digital strategy. Our traffic and engagement have skyrocketed! Their expertise in design, SEO, and content has truly boosted our online presence                            </p>
-
+                                Partnering with this team was a turning point. They redesigned our site, enhanced functionality, and applied SEO tactics that boosted traffic and engagement</p>
                             <div class="d-flex align-items-center border-top border-secondary pt-3">
                                 <div class="avatar-placeholder me-3"></div>
                                 <div>
@@ -361,9 +359,8 @@ The team transformed our website and digital strategy. Our traffic and engagemen
                             </div>
 
                             <p class="testimonial-text text-white fw_reg mb-4">
-                                "Core Vision's enterprise solutions transformed our digital infrastructure completely. Their innovative AI approach and attention to detail resulted in a platform that exceeded all our expectations."
+                                Professional, reliable, and creative. They revamped our website, enhanced our SEO, and strengthened our digital marketing efforts, delivering impressive results
                             </p>
-
                             <div class="d-flex align-items-center border-top border-secondary pt-3">
                                 <div class="avatar-placeholder me-3"></div>
                                 <div>
@@ -391,9 +388,8 @@ The team transformed our website and digital strategy. Our traffic and engagemen
                             </div>
 
                             <p class="testimonial-text text-white fw_reg mb-4">
-                                Thanks to their expertise, our online presence is stronger than ever. Highly recommended!
+                                The team completely upgraded our website and digital presence. Their expertise in design, SEO, and content has improved traffic, engagement, and overall performance
                             </p>
-
                             <div class="d-flex align-items-center border-top border-secondary pt-3">
                                 <div class="avatar-placeholder me-3"></div>
                                 <div>
