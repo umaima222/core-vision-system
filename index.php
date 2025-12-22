@@ -13,7 +13,7 @@
                 <div class="hero-text">
                     <h1 class="reifilano-semibold main_heading text-uppercase text-white" data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">corevision system</h1>
                 </div>
-                <p class="mt-4 text-white fw_med level-5 " id="hero-para" data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">
+                <p class="mt-4 text-white fw_med level-5  md-px-0 px-3 " id="hero-para" data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">
 We deliver comprehensive digital solutions that help businesses grow and succeed online. From custom web and app development to WordPress, content creation, SEO, and digital marketing, we combine innovation, creativity, and technology to build powerful digital experiences that drive measurable results and long-term success                </p>
                 <button class="btn btn-liquid position-relative border-0 rounded-pill px-4 py-3 text-white  fw_med level-5 overflow-hidden text-uppercase mt-4" id="hero-btn" data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">Explore Our Universe</button>
             </div>
@@ -38,7 +38,7 @@ We deliver comprehensive digital solutions that help businesses grow and succeed
                     <div class="card-glow quantum-glow position-absolute top-0 start-0 width-100 height-100"></div>
                     <div class="card-content position-relative">
                         <div class="card-icon quantum-icon morph-icon rounded-radius-1 d-flex align-items-center justify-content-center mb-3 level-4 position-relative overflow-hidden rounded p-3">
-                            <i class="fas fa-rocket level-5"></i>
+                            <i class="fas fa-rocket "></i>
                             <div class="icon-glow quantum-glow"></div>
                             <div class="energy-field-icon position-absolute top-50 start-50"></div>
                         </div>
@@ -62,7 +62,7 @@ We deliver comprehensive digital solutions that help businesses grow and succeed
                     <div class="card-glow quantum-glow position-absolute top-0 start-0 width-100 height-100"></div>
                     <div class="card-content position-relative">
                         <div class="card-icon quantum-icon morph-icon rounded-radius-1 d-flex align-items-center justify-content-center mb-3 level-4 position-relative overflow-hidden rounded p-3">
-                            <i class="fas fa-brain level-5"></i>
+                            <i class="fas fa-brain "></i>
                             <div class="icon-glow quantum-glow"></div>
                             <div class="energy-field-icon position-absolute top-50 start-50"></div>
                         </div>
@@ -88,7 +88,7 @@ We deliver comprehensive digital solutions that help businesses grow and succeed
                     <div class="card-glow quantum-glow position-absolute top-0 start-0 width-100 height-100"></div>
                     <div class="card-content position-relative">
                         <div class="card-icon quantum-icon morph-icon rounded-radius-1 d-flex align-items-center justify-content-center mb-3 level-4 position-relative overflow-hidden rounded p-3">
-                            <i class="fas fa-cube level-5"></i>
+                            <i class="fas fa-cube "></i>
                             <div class="icon-glow quantum-glow"></div>
                             <div class="energy-field-icon position-absolute top-50 start-50"></div>
                         </div>
@@ -109,7 +109,7 @@ We deliver comprehensive digital solutions that help businesses grow and succeed
                 </div>
             </div>
             <div class="col-md-12 mt-3 text-center">
-                <a href="" class="btn btn-liquid position-relative border-0 rounded-pill px-4 py-3 text-white  reifilano-med level-5 overflow-hidden text-uppercase mt-2" data-text="GET PROPOSAL">
+                <a href="service.php" class="btn btn-liquid position-relative border-0 rounded-pill px-4 py-3 text-white  reifilano-med level-5 overflow-hidden text-uppercase mt-2" data-text="GET PROPOSAL">
                     <span class="btn-text">view all </span>
                 </a>
             </div>

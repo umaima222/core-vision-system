@@ -24,7 +24,7 @@
                     <div class="card-glow quantum-glow position-absolute top-0 start-0 width-100 height-100"></div>
                     <div class="card-content position-relative">
                         <div class="card-icon quantum-icon morph-icon rounded-radius-1 d-flex align-items-center justify-content-center mb-3 level-4 position-relative overflow-hidden rounded p-3">
-                            <i class="fas fa-rocket level-5"></i>
+                            <i class="fas fa-rocket "></i>
                             <div class="icon-glow quantum-glow"></div>
                             <div class="energy-field-icon position-absolute top-50 start-50"></div>
                         </div>
@@ -48,7 +48,7 @@
                     <div class="card-glow quantum-glow position-absolute top-0 start-0 width-100 height-100"></div>
                     <div class="card-content position-relative">
                         <div class="card-icon quantum-icon morph-icon rounded-radius-1 d-flex align-items-center justify-content-center mb-3 level-4 position-relative overflow-hidden rounded p-3">
-                            <i class="fas fa-brain level-5"></i>
+                            <i class="fas fa-brain "></i>
                             <div class="icon-glow quantum-glow"></div>
                             <div class="energy-field-icon position-absolute top-50 start-50"></div>
                         </div>
@@ -75,7 +75,7 @@
                     <div class="card-glow quantum-glow position-absolute top-0 start-0 width-100 height-100"></div>
                     <div class="card-content position-relative">
                         <div class="card-icon quantum-icon morph-icon rounded-radius-1 d-flex align-items-center justify-content-center mb-3 level-4 position-relative overflow-hidden rounded p-3">
-                            <i class="fas fa-cube level-5"></i>
+                            <i class="fas fa-cube "></i>
                             <div class="icon-glow quantum-glow"></div>
                             <div class="energy-field-icon position-absolute top-50 start-50"></div>
                         </div>
@@ -100,7 +100,7 @@
                     <div class="card-glow quantum-glow position-absolute top-0 start-0 width-100 height-100"></div>
                     <div class="card-content position-relative">
                         <div class="card-icon quantum-icon morph-icon rounded-radius-1 d-flex align-items-center justify-content-center mb-3 level-4 position-relative overflow-hidden rounded p-3">
-                            <i class="fas fa-rocket level-5"></i>
+                            <i class="fas fa-rocket "></i>
                             <div class="icon-glow quantum-glow"></div>
                             <div class="energy-field-icon position-absolute top-50 start-50"></div>
                         </div>
@@ -126,7 +126,7 @@
                     <div class="card-glow quantum-glow position-absolute top-0 start-0 width-100 height-100"></div>
                     <div class="card-content position-relative">
                         <div class="card-icon quantum-icon morph-icon rounded-radius-1 d-flex align-items-center justify-content-center mb-3 level-4 position-relative overflow-hidden rounded p-3">
-                            <i class="fas fa-brain level-5"></i>
+                            <i class="fas fa-brain "></i>
                             <div class="icon-glow quantum-glow"></div>
                             <div class="energy-field-icon position-absolute top-50 start-50"></div>
                         </div>
@@ -150,7 +150,7 @@
                     <div class="card-glow quantum-glow position-absolute top-0 start-0 width-100 height-100"></div>
                     <div class="card-content position-relative">
                         <div class="card-icon quantum-icon morph-icon rounded-radius-1 d-flex align-items-center justify-content-center mb-3 level-4 position-relative overflow-hidden rounded p-3">
-                            <i class="fas fa-cube level-5"></i>
+                            <i class="fas fa-cube "></i>
                             <div class="icon-glow quantum-glow"></div>
                             <div class="energy-field-icon position-absolute top-50 start-50"></div>
                         </div>

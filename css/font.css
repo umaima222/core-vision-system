@@ -111,10 +111,10 @@ font-size: 40px;
         font-size: 25px;
     }
     .level-4{
-        font-size: 18px;
+        font-size: 13px;
     }
     .level-5{
-        font-size: 16px;
+        font-size: 14px;
     }
     .level-6{
         font-size: 12px;
@@ -125,6 +125,7 @@ font-size: 40px;
      .main_heading{
         font-size: 45px;
     }
+
 }
 @media(max-width:700px){
     .level-1{
