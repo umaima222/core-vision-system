@@ -26,10 +26,13 @@ AOS.init();
 </script>
 
 <script>
-  $(window).on("load", function () {
-    console.log("test");
-    $("#preloader").fadeOut(2000);
-  });
+  // $(window).on("load", function () {
+  //   console.log("test");
+  //   $("#preloader").fadeOut(2000);
+  // });
+  $(document).ready(function () {
+  $("#preloader").fadeOut(500); // 0.5s fade out
+});
 // === GSAP & ScrollTrigger ===
 gsap.registerPlugin(ScrollTrigger);
 
