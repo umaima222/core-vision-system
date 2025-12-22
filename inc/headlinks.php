@@ -7,8 +7,9 @@
 
 <!-- Favicon -->
 <!-- <link rel="icon" href="/favicon.ico"> -->
- <link rel="icon" href="https://corevisionsystems.com/img/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://corevisionsystems.com/img/favicon.ico" type="image/x-icon">
+<link rel="icon" href="https://corevisionsystems.com/img/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://corevisionsystems.com/img/favicon.ico" type="image/x-icon">
+
 <!-- <link rel="icon" type="favicon" sizes="32x32" href="/favicon.ico"> -->
 <!-- <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.ico"> -->
 
