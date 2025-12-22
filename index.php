@@ -14,8 +14,7 @@
                     <h1 class="reifilano-semibold main_heading text-uppercase text-white" data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">core vison system</h1>
                 </div>
                 <p class="mt-4 text-white fw_med level-5 " id="hero-para" data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">
-                    The Core Vision System is a state-of-the-art solution created to give every visual application unmatched clarity and intelligence. It enables accurate detection, real-time monitoring, and actionable insights across industries by utilising cutting-edge imaging technology and AI-powered analytics. The Core Vision System guarantees accuracy, efficiency, and dependability in quality control, automation, and advanced surveillance, enabling businesses to make more informed decisions more quickly. It sets a new benchmark for intelligent vision solutions because it is designed for scalability and adaptability and integrates easily with current workflows.
-                </p>
+We deliver comprehensive digital solutions that help businesses grow and succeed online. From custom web and app development to WordPress, content creation, SEO, and digital marketing, we combine innovation, creativity, and technology to build powerful digital experiences that drive measurable results and long-term success                </p>
                 <button class="btn btn-liquid position-relative border-0 rounded-pill px-4 py-3 text-white  fw_med level-5 overflow-hidden text-uppercase mt-4" id="hero-btn" data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">Explore Our Universe</button>
             </div>
         </div>

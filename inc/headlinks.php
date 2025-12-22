@@ -7,6 +7,8 @@
 
 <!-- Favicon -->
 <link rel="icon" type="img/favicon.ico" href="img/favicon.ico">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" type="image/png" sizes="48x48" href="/favicon.ico">
 <!-- Site Title -->
 
 <!-- Bootstrap CSS -->
