@@ -31,7 +31,7 @@ AOS.init();
   //   $("#preloader").fadeOut(2000);
   // });
   $(document).ready(function () {
-  $("#preloader").fadeOut(500); // 0.5s fade out
+  $("#preloader").fadeOut(2000); // 0.5s fade out
 });
 // === GSAP & ScrollTrigger ===
 gsap.registerPlugin(ScrollTrigger);
