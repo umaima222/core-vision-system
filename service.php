@@ -28,10 +28,13 @@
                             <div class="icon-glow quantum-glow"></div>
                             <div class="energy-field-icon position-absolute top-50 start-50"></div>
                         </div>
-                        <h3 class="card-title morphing-text level-4  text-white fw_semibold text-uppercase mb-3 position-relative ">Digital Innovation</h3>
-                        <p class="card-description fw_med level-6 text-capitalize text-white">Transform your business with next-generation quantum solutions and AI-powered technology integration.</p>
+                        <h3 class="card-title morphing-text level-4  text-white fw_semibold text-uppercase mb-3 position-relative ">Web & App Development</h3>
+                        <p class="card-description fw_med level-6 text-capitalize text-white">Build fast, responsive, and scalable websites and applications tailored to your business needs. From custom web apps to interactive platforms, we deliver seamless digital experiences</p>
                         <div class="card-hover-effect quantum-effect position-absolute top-0 start-0 w-100 h-100"></div>
                         <div class="neural-pattern position-absolute top-0 start-0 w-100 h-100"></div>
+                         <a href="" class="btn btn-liquid position-relative border-0 rounded-pill px-4 py-3 text-white  reifilano-med level-5 overflow-hidden text-uppercase mt-2" data-text="GET PROPOSAL">
+                    <span class="btn-text">more detail </span>
+                </a>
                     </div>
                     <div class="card-border quantum-border position-absolute top-0 start-0 w-100 h-100 rounded-radius-1 overflow-hidden ">
                         <div class="border-energy position-absolute top-0 w-100 h-100"></div>
@@ -49,10 +52,16 @@
                             <div class="icon-glow quantum-glow"></div>
                             <div class="energy-field-icon position-absolute top-50 start-50"></div>
                         </div>
-                        <h3 class="card-title morphing-text level-4  text-white fw_semibold text-uppercase mb-3 position-relative ">AI Integration</h3>
-                        <p class="card-description fw_med level-6 text-capitalize text-white">Harness the power of quantum artificial intelligence to create intelligent, adaptive, and transformative experiences.</p>
+                        <h3 class="card-title morphing-text level-4  text-white fw_semibold text-uppercase mb-3 position-relative ">SEO & Digital Marketing</h3>
+                        <p class="card-description fw_med level-6 text-capitalize text-white">
+                         Boost your visibility and attract more customers with our complete SEO and digital marketing strategies. We optimize, analyze, and promote to help your business grow online
+
+                        </p>
                         <div class="card-hover-effect quantum-effect position-absolute top-0 start-0 w-100 h-100"></div>
                         <div class="neural-pattern position-absolute top-0 start-0 w-100 h-100"></div>
+                               <a href="" class="btn btn-liquid position-relative border-0 rounded-pill px-4 py-3 text-white  reifilano-med level-5 overflow-hidden text-uppercase mt-2" data-text="GET PROPOSAL">
+                    <span class="btn-text">more detail </span>
+                </a>
                     </div>
                     <div class="card-border quantum-border position-absolute top-0 start-0 w-100 h-100 rounded-radius-1 overflow-hidden  ">
                         <div class="border-energy position-absolute top-0 w-100 h-100"></div>
@@ -70,10 +79,15 @@
                             <div class="icon-glow quantum-glow"></div>
                             <div class="energy-field-icon position-absolute top-50 start-50"></div>
                         </div>
-                        <h3 class="card-title morphing-text level-4  text-white fw_semibold text-uppercase mb-3 position-relative ">3D Experiences</h3>
-                        <p class="card-description fw_med level-6 text-capitalize text-white">Immerse your audience in stunning quantum-enhanced three-dimensional environments that push the boundaries of reality.</p>
+                        <h3 class="card-title morphing-text level-4  text-white fw_semibold text-uppercase mb-3 position-relative ">Full Digital Solutions</h3>
+                        <p class="card-description fw_med level-6 text-capitalize text-white">
+                             From strategy to execution, we provide end-to-end digital solutions. Website, content, SEO, social media, and more – we cover everything to make your brand thrive online
+                        </p>
                         <div class="card-hover-effect quantum-effect position-absolute top-0 start-0 w-100 h-100"></div>
                         <div class="neural-pattern position-absolute top-0 start-0 w-100 h-100"></div>
+                               <a href="" class="btn btn-liquid position-relative border-0 rounded-pill px-4 py-3 text-white  reifilano-med level-5 overflow-hidden text-uppercase mt-2" data-text="GET PROPOSAL">
+                    <span class="btn-text">more detail </span>
+                </a>
                     </div>
                     <div class="card-border quantum-border position-absolute top-0 start-0 w-100 h-100 rounded-radius-1 overflow-hidden ">
                         <div class="border-energy position-absolute top-0 w-100 h-100"></div>
@@ -90,10 +104,15 @@
                             <div class="icon-glow quantum-glow"></div>
                             <div class="energy-field-icon position-absolute top-50 start-50"></div>
                         </div>
-                        <h3 class="card-title morphing-text level-4  text-white fw_semibold text-uppercase mb-3 position-relative ">Digital Innovation</h3>
-                        <p class="card-description fw_med level-6 text-capitalize text-white">Transform your business with next-generation quantum solutions and AI-powered technology integration.</p>
+                        <h3 class="card-title morphing-text level-4  text-white fw_semibold text-uppercase mb-3 position-relative ">WordPress Solutions</h3>
+                        <p class="card-description fw_med level-6 text-capitalize text-white">
+                            We offer end-to-end WordPress solutions to create websites that are visually appealing, functional, and easy to manage. From theme customization and plugin integration to e-commerce platforms and blogs, we ensure your WordPress site is SEO-friendly, fast, and secure, helping your brand stand out online
+                        </p>
                         <div class="card-hover-effect quantum-effect position-absolute top-0 start-0 w-100 h-100"></div>
                         <div class="neural-pattern position-absolute top-0 start-0 w-100 h-100"></div>
+                               <a href="" class="btn btn-liquid position-relative border-0 rounded-pill px-4 py-3 text-white  reifilano-med level-5 overflow-hidden text-uppercase mt-2" data-text="GET PROPOSAL">
+                    <span class="btn-text">more detail </span>
+                </a>
                     </div>
                     <div class="card-border quantum-border position-absolute top-0 start-0 w-100 h-100 rounded-radius-1 overflow-hidden ">
                         <div class="border-energy position-absolute top-0 w-100 h-100"></div>
@@ -111,10 +130,13 @@
                             <div class="icon-glow quantum-glow"></div>
                             <div class="energy-field-icon position-absolute top-50 start-50"></div>
                         </div>
-                        <h3 class="card-title morphing-text level-4  text-white fw_semibold text-uppercase mb-3 position-relative ">AI Integration</h3>
-                        <p class="card-description fw_med level-6 text-capitalize text-white">Harness the power of quantum artificial intelligence to create intelligent, adaptive, and transformative experiences.</p>
+                        <h3 class="card-title morphing-text level-4  text-white fw_semibold text-uppercase mb-3 position-relative ">Content Creation</h3>
+                        <p class="card-description fw_med level-6 text-capitalize text-white">Engage your audience with high-quality, compelling content tailored to your brand. From blog posts and website copy to social media content and marketing campaigns, we craft content that communicates your message clearly, boosts engagement, and drives conversions</p>
                         <div class="card-hover-effect quantum-effect position-absolute top-0 start-0 w-100 h-100"></div>
                         <div class="neural-pattern position-absolute top-0 start-0 w-100 h-100"></div>
+                               <a href="" class="btn btn-liquid position-relative border-0 rounded-pill px-4 py-3 text-white  reifilano-med level-5 overflow-hidden text-uppercase mt-2" data-text="GET PROPOSAL">
+                    <span class="btn-text">more detail </span>
+                </a>
                     </div>
                     <div class="card-border quantum-border position-absolute top-0 start-0 w-100 h-100 rounded-radius-1 overflow-hidden  ">
                         <div class="border-energy position-absolute top-0 w-100 h-100"></div>
@@ -132,10 +154,15 @@
                             <div class="icon-glow quantum-glow"></div>
                             <div class="energy-field-icon position-absolute top-50 start-50"></div>
                         </div>
-                        <h3 class="card-title morphing-text level-4  text-white fw_semibold text-uppercase mb-3 position-relative ">3D Experiences</h3>
-                        <p class="card-description fw_med level-6 text-capitalize text-white">Immerse your audience in stunning quantum-enhanced three-dimensional environments that push the boundaries of reality.</p>
+                        <h3 class="card-title morphing-text level-4  text-white fw_semibold text-uppercase mb-3 position-relative ">Branding & Design</h3>
+                        <p class="card-description fw_med level-6 text-capitalize text-white">
+                            Build a strong and memorable brand identity with our creative design solutions. We provide logo design, UI/UX design, visual branding, and graphics that reflect your brand personality and make a lasting impression on your audience
+                        </p>
                         <div class="card-hover-effect quantum-effect position-absolute top-0 start-0 w-100 h-100"></div>
                         <div class="neural-pattern position-absolute top-0 start-0 w-100 h-100"></div>
+                               <a href="" class="btn btn-liquid position-relative border-0 rounded-pill px-4 py-3 text-white  reifilano-med level-5 overflow-hidden text-uppercase mt-2" data-text="GET PROPOSAL">
+                    <span class="btn-text">more detail </span>
+                </a>
                     </div>
                     <div class="card-border quantum-border position-absolute top-0 start-0 w-100 h-100 rounded-radius-1 overflow-hidden ">
                         <div class="border-energy position-absolute top-0 w-100 h-100"></div>

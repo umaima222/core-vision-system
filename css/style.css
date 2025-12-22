@@ -7,7 +7,141 @@ body {
   color: var(--text-color);
   font-family: "Montserrat", serif;
       overflow-x: hidden;
+      width: 100%;
+      height: 100%;
 }
+#preloader {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  background: #000000;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* HTML: <div class="loader"></div> */
+.loader {
+    width: 40px;
+    height: 40px;
+    --c:no-repeat linear-gradient(#9D4CFF 0 0);
+    background: var(--c),var(--c),var(--c),var(--c);
+    background-size: 21px 21px;
+    animation: l5 1.5s infinite cubic-bezier(0.3,1,0,1);
+}
+@keyframes l5 {
+   0%   {background-position: 0    0,100% 0   ,100% 100%,0 100%}
+   33%  {background-position: 0    0,100% 0   ,100% 100%,0 100%;width:60px;height: 60px}
+   66%  {background-position: 100% 0,100% 100%,0    100%,0 0   ;width:60px;height: 60px}
+   100% {background-position: 100% 0,100% 100%,0    100%,0 0   }
+}
+/* ================= PRELOADER ================= */
+
+/* .pl {
+  background: linear-gradient(
+      rgb(0, 0, 0) calc(50% + 1.5em),
+      rgba(107, 13, 110, 0.267) calc(50% + 2.5em) calc(50% + 10.5em),
+      rgb(5, 16, 44)
+    );
+  position: relative;
+  overflow: hidden;
+  perspective: 800px;
+  transform-style: preserve-3d;
+  width: 100%;
+  height: 100%;
+}
+
+
+
+.pl__sphere,
+.pl__sphere-shadow {
+  position: absolute;
+  border-radius: 50%;
+  top: calc(50% - 1em);
+  width: 2em;
+  height: 2em;
+  animation-duration: 2s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.pl__sphere {
+  background: var(--quantum-blue);
+  box-shadow:
+    0 -0.75em 0.5em #9D4CFF inset,
+    0 0 0.5em rgba(27, 43, 102, 0.7);
+  animation-name: moveSphere;
+  transform: translateZ(10em);
+  z-index: 1;
+  margin: 0  10px;
+}
+
+.pl__sphere-shadow {
+  background-image: radial-gradient(
+    100% 100% at center,
+    rgba(0, 0, 0, 0.2) 45%,
+    rgba(0, 0, 0, 0) 50%
+  );
+  animation-name: moveSphereShadow;
+  transform: translateY(4em) translateZ(10em) rotateX(90deg);
+}
+
+
+
+.pl__sphere:nth-of-type(1),
+.pl__sphere-shadow:nth-of-type(1) {
+  left: calc(50% - 3.5em);
+}
+
+.pl__sphere:nth-of-type(2),
+.pl__sphere-shadow:nth-of-type(2) {
+  left: calc(50% - 1.5em);
+  animation-delay: 0.1s;
+}
+
+.pl__sphere:nth-of-type(3),
+.pl__sphere-shadow:nth-of-type(3) {
+  left: calc(50% + 0.5em);
+  animation-delay: 0.2s;
+}
+
+.pl__sphere:nth-of-type(4),
+.pl__sphere-shadow:nth-of-type(4) {
+  left: calc(50% + 2.5em);
+  animation-delay: 0.3s;
+}
+
+
+
+@keyframes moveSphere {
+  0%, 100% {
+    filter: brightness(100%) blur(0);
+    -webkit-filter: brightness(100%) blur(0);
+    transform: translateZ(10em);
+  }
+  25%, 75% {
+    transform: translateZ(12em);
+  }
+  50% {
+    filter: brightness(80%) blur(4px);
+    -webkit-filter: brightness(80%) blur(4px);
+    transform: translateZ(-10em);
+  }
+}
+
+@keyframes moveSphereShadow {
+  0%, 100% {
+    transform: translateY(4em) translateZ(10em) rotateX(90deg);
+  }
+  25%, 75% {
+    transform: translateY(4em) translateZ(12em) rotateX(90deg);
+  }
+  50% {
+    transform: translateY(4em) translateZ(-10em) rotateX(90deg);
+  }
+} */
 
 .over-hidden {
   overflow: hidden;
@@ -37,48 +171,8 @@ figure {
 .secondary-btn {
 }
 
-/* Universal Css End Here */
-:root {
-  --primary-dark: #0a0c1c;
-  --secondary-dark: #11152f;
-  --neon-blue: #4c74ff;
-  --text-light: #e9ecff;
-  --font-mono: "Space Mono", monospace;
-  --font-sans: "Inter", sans-serif;
-}
 
-body {
-  background-color: var(--primary-dark);
-  font-family: var(--font-sans);
-  color: var(--text-light);
-  min-height: 200vh;
-  overflow-x: hidden;
-}
 
-/* Bootstrap utility overrides for custom colors */
-.bg-primary-dark {
-  background-color: var(--primary-dark) !important;
-}
-
-.bg-secondary-dark {
-  background-color: var(--secondary-dark) !important;
-}
-
-.text-neon-blue {
-  color: var(--neon-blue) !important;
-}
-
-.text-neon-cyan {
-  color: var(--cyan-glow) !important;
-}
-
-.text-neon-pink {
-  color: var(--pink-neon) !important;
-}
-
-.text-text-light {
-  color: var(--text-light) !important;
-}
 .navbar-brand img {
   width: 100px;
   height: 80px;
@@ -811,4 +905,9 @@ footer {
 @keyframes pulseGlow {
     0% { transform: scale(1); box-shadow: 0 0 5px var(--quantum-glow); }
     100% { transform: scale(1.05); box-shadow: 0 0 15px var(--quantum-glow); }
+}
+section.upperbanner {
+    min-height: 300px;
+    /* margin-top: 30px; */
+    padding-top: 147px !important;
 }

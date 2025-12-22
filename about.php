@@ -21,32 +21,15 @@
             <!-- <div class="about-text professional-about-text"> -->
             <div class="col-md-6">
                 <h2 class="section-title professional-section-title reifilano-semibold level-1 text-uppercase text-white mb-3">ABOUT CORE VISION</h2>
-                <p class="about-description professional-description text-white fw_reg  level-6">
-                    We are pioneers in enterprise digital transformation, blending cutting-edge AI technology with advanced business solutions to create experiences that drive results. Our team of expert technologists and business strategists works at the intersection of innovation and execution, delivering unparalleled digital excellence to Fortune 500 companies.
+                  <p class="about-description professional-description text-white fw_reg  level-6">
+Our speciality at <span class="pink-neon text-uppercase">core vison system </span> is providing all-inclusive digital solutions that support companies' online expansion and success. We offer all of your brand's needs under one roof, including content creation, SEO, digital marketing, WordPress websites, and custom web and app development.
+                </p>
+                      <p class="about-description professional-description text-white fw_reg  level-6">
+                        Our team creates solutions that are not only aesthetically pleasing but also effective, scalable, and results-driven by fusing creativity, technology, and strategy. We concentrate on comprehending your particular business requirements, making sure that each project we complete increases engagement, boosts performance, and produces quantifiable outcomes.
                 </p>
                 <!-- <div class="about-stats professional-stats"> -->
                 <div class="row">
 
-                    <!-- <div class="col-md-4">
-                        <div class="stat-item professional-stat-item position-relative text-center">
-                            <div class="stat-visual d-flex flex-column align-items-center justify-content-center">
-                                <svg class="counter-svg" viewBox="0 0 100 100">
-                                    <circle cx="50" cy="50" r="45" fill="none" stroke="rgba(59, 130, 246, 0.2)" stroke-width="2" />
-                                    <circle class="progress-circle" cx="50" cy="50" r="45" fill="none" stroke="#3b82f6" stroke-width="3"
-                                        stroke-dasharray="283" stroke-dashoffset="283" transform="rotate(-90 50 50)" />
-                                </svg>
-                                <div class="">
-                                    <div class="stat-number-container  p-2">
-                                        <div class="d-flex flex-col justify-content-center align-items-center ">
-                                            <span class="stat-number animated-counter text-color-1 d-block mb-2 font-semibold" data-target="750" data-suffix="+">0</span>
-
-                                        </div>
-                                    </div>
-                                    <span class="stat-label level-7 text-uppercase text-white">Enterprise Projects</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
 
                     <div class="col-md-4">
                         <div class="p-3 d-flex justify-content-center flex-column align-items-center">
@@ -294,13 +277,12 @@
             </div>
             <div class="col-md-6">
                 <div class="vison-content" data-aos="fade-left" data-aos-duration="800" data-aos-delay="400">
-                    <h3 class="reifilano-semibold text-white level-2">Lorem, ipsum</h3>
+                    <h3 class="reifilano-semibold text-white level-2">Our Mission</h3>
                     <p class="fw_reg text-white text-capitalize">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores placeat beatae quis dolorem consectetur aut magni cupiditate consequatur, nemo, saepe in ullam eos neque qui unde nam mollitia id praesentium.
-                    </p>
+To offer all-inclusive digital solutions that enable companies to expand and prosper online. We provide web development, WordPress, content, SEO, and digital marketing services that produce quantifiable outcomes and leave a lasting impression by fusing innovation, creativity, and technology.
+                </p>
                     <p class="fw_reg text-white text-capitalize">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores placeat beatae quis dolorem consectetur aut magni cupiditate consequatur, nemo, saepe in ullam eos neque qui unde nam mollitia id praesentium.
-                    </p>
+Our objective is to improve brand awareness, produce quantifiable outcomes, and leave a lasting impression on each and every client. We guarantee that every solution is effective, scalable, and built for success in a continuously changing digital landscape by comprehending specific business needs and utilising state-of-the-art tools.                    </p>
                      <button class="btn btn-liquid position-relative border-0 rounded-pill px-4 py-3 text-white  reifilano-med level-5 overflow-hidden text-uppercase mt-4" data-text="GET PROPOSAL">
                     <span class="btn-text">GET PROPOSAL</span>
                     <!-- <div class="btn-core"></div>

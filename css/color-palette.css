@@ -111,3 +111,6 @@
 .inner-banner-gradient{
     background: var(--inner-banner-gradient);
 }
+.pink-neon{
+    color: var(--pink-neon);
+}

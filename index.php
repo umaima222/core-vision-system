@@ -13,7 +13,9 @@
                 <div class="hero-text">
                     <h1 class="reifilano-semibold main_heading text-uppercase text-white" data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">core vison system</h1>
                 </div>
-                <p class="mt-4 text-white fw_med level-5 " id="hero-para" data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis porro magnam molestias expedita incidunt cupiditate reiciendis libero suscipit doloribus esse unde, voluptatum nostrum facilis. Beatae unde vero nisi doloribus error!</p>
+                <p class="mt-4 text-white fw_med level-5 " id="hero-para" data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">
+                    The Core Vision System is a state-of-the-art solution created to give every visual application unmatched clarity and intelligence. It enables accurate detection, real-time monitoring, and actionable insights across industries by utilising cutting-edge imaging technology and AI-powered analytics. The Core Vision System guarantees accuracy, efficiency, and dependability in quality control, automation, and advanced surveillance, enabling businesses to make more informed decisions more quickly. It sets a new benchmark for intelligent vision solutions because it is designed for scalability and adaptability and integrates easily with current workflows.
+                </p>
                 <button class="btn btn-liquid position-relative border-0 rounded-pill px-4 py-3 text-white  fw_med level-5 overflow-hidden text-uppercase mt-4" id="hero-btn" data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">Explore Our Universe</button>
             </div>
         </div>
@@ -23,9 +25,9 @@
     <div class="container">
         <div class="row ">
             <div class="col-md-12">
-                <div class="section-header quantum-header position-relative text-center mb-5">
+                <div class="section-header quantum-header text-center position-relative  mb-5">
                     <h2 class="reifilano-semibold level-1 text-uppercase text-white mb-3">OUR SERVICES</h2>
-                    <p class="text-white reifilano-med level-5">Quantum-powered solutions for the digital age</p>
+                    <p class="text-white fw_reg level-6">We offer comprehensive digital services to support the online success of your company. We handle everything under one roof, including WordPress websites, engaging content creation, custom web and app development, and effective SEO and digital marketing tactics. In order to provide effective, scalable, and results-driven solutions that guarantee your brand reaches the appropriate audience and accomplishes its digital objectives, our team integrates creativity, technology, and strategy.</p>
                     <div class="title-glow quantum-glow"></div>
                     <div class="ai-particles position-absolute top-50 start-50"></div>
                 </div>
@@ -41,10 +43,13 @@
                             <div class="icon-glow quantum-glow"></div>
                             <div class="energy-field-icon position-absolute top-50 start-50"></div>
                         </div>
-                        <h3 class="card-title morphing-text level-4  text-white fw_semibold text-uppercase mb-3 position-relative ">Digital Innovation</h3>
-                        <p class="card-description fw_med level-6 text-capitalize text-white">Transform your business with next-generation quantum solutions and AI-powered technology integration.</p>
+                        <h3 class="card-title morphing-text level-4  text-white fw_semibold text-uppercase mb-3 position-relative ">Web & App Development</h3>
+                        <p class="card-description fw_reg level-6 text-capitalize text-white">Build fast, responsive, and scalable websites and applications tailored to your business needs. From custom web apps to interactive platforms, we deliver seamless digital experiences</p>
                         <div class="card-hover-effect quantum-effect position-absolute top-0 start-0 w-100 h-100"></div>
                         <div class="neural-pattern position-absolute top-0 start-0 w-100 h-100"></div>
+                        <a href="" class="btn btn-liquid position-relative border-0 rounded-pill px-4 py-3 text-white  reifilano-med level-5 overflow-hidden text-uppercase mt-2" data-text="GET PROPOSAL">
+                            <span class="btn-text">more detail </span>
+                        </a>
                     </div>
                     <div class="card-border quantum-border position-absolute top-0 start-0 w-100 h-100 rounded-radius-1 overflow-hidden ">
                         <div class="border-energy position-absolute top-0 w-100 h-100"></div>
@@ -62,10 +67,15 @@
                             <div class="icon-glow quantum-glow"></div>
                             <div class="energy-field-icon position-absolute top-50 start-50"></div>
                         </div>
-                        <h3 class="card-title morphing-text level-4  text-white fw_semibold text-uppercase mb-3 position-relative ">AI Integration</h3>
-                        <p class="card-description fw_med level-6 text-capitalize text-white">Harness the power of quantum artificial intelligence to create intelligent, adaptive, and transformative experiences.</p>
+                        <h3 class="card-title morphing-text level-4  text-white fw_semibold text-uppercase mb-3 position-relative ">SEO & Digital Marketing</h3>
+                        <p class="card-description fw_reg level-6 text-capitalize text-white">
+                            Boost your visibility and attract more customers with our complete SEO and digital marketing strategies. We optimize, analyze, and promote to help your business grow online
+                        </p>
                         <div class="card-hover-effect quantum-effect position-absolute top-0 start-0 w-100 h-100"></div>
                         <div class="neural-pattern position-absolute top-0 start-0 w-100 h-100"></div>
+                        <a href="" class="btn btn-liquid position-relative border-0 rounded-pill px-4 py-3 text-white  reifilano-med level-5 overflow-hidden text-uppercase mt-2" data-text="GET PROPOSAL">
+                            <span class="btn-text">more detail </span>
+                        </a>
                     </div>
                     <div class="card-border quantum-border position-absolute top-0 start-0 w-100 h-100 rounded-radius-1 overflow-hidden  ">
                         <div class="border-energy position-absolute top-0 w-100 h-100"></div>
@@ -83,16 +93,26 @@
                             <div class="icon-glow quantum-glow"></div>
                             <div class="energy-field-icon position-absolute top-50 start-50"></div>
                         </div>
-                        <h3 class="card-title morphing-text level-4  text-white fw_semibold text-uppercase mb-3 position-relative ">3D Experiences</h3>
-                        <p class="card-description fw_med level-6 text-capitalize text-white">Immerse your audience in stunning quantum-enhanced three-dimensional environments that push the boundaries of reality.</p>
+                        <h3 class="card-title morphing-text level-4  text-white fw_semibold text-uppercase mb-3 position-relative ">Full Digital Solutions</h3>
+                        <p class="card-description fw_med level-6 text-capitalize text-white">
+                            From strategy to execution, we provide end-to-end digital solutions. Website, content, SEO, social media, and more – we cover everything to make your brand thrive online
+                        </p>
                         <div class="card-hover-effect quantum-effect position-absolute top-0 start-0 w-100 h-100"></div>
                         <div class="neural-pattern position-absolute top-0 start-0 w-100 h-100"></div>
+                        <a href="" class="btn btn-liquid position-relative border-0 rounded-pill px-4 py-3 text-white  reifilano-med level-5 overflow-hidden text-uppercase mt-2" data-text="GET PROPOSAL">
+                            <span class="btn-text">more detail </span>
+                        </a>
                     </div>
                     <div class="card-border quantum-border position-absolute top-0 start-0 w-100 h-100 rounded-radius-1 overflow-hidden ">
                         <div class="border-energy position-absolute top-0 w-100 h-100"></div>
                     </div>
                     <div class="card-3d-layer"></div>
                 </div>
+            </div>
+            <div class="col-md-12 mt-3 text-center">
+                <a href="" class="btn btn-liquid position-relative border-0 rounded-pill px-4 py-3 text-white  reifilano-med level-5 overflow-hidden text-uppercase mt-2" data-text="GET PROPOSAL">
+                    <span class="btn-text">view all </span>
+                </a>
             </div>
             <!-- </div> -->
         </div>
@@ -107,33 +127,13 @@
                 <div class="position-relative">
                     <h2 class="section-title professional-section-title reifilano-semibold level-1 text-uppercase text-white mb-3">ABOUT CORE VISION</h2>
                     <p class="about-description professional-description text-white fw_reg  level-6">
-                        We are pioneers in enterprise digital transformation, blending cutting-edge AI technology with advanced business solutions to create experiences that drive results. Our team of expert technologists and business strategists works at the intersection of innovation and execution, delivering unparalleled digital excellence to Fortune 500 companies.
+                        Our speciality at <span class="pink-neon text-uppercase">core vison system </span> is providing all-inclusive digital solutions that support companies' online expansion and success. We offer all of your brand's needs under one roof, including content creation, SEO, digital marketing, WordPress websites, and custom web and app development.
                     </p>
 
                 </div>
                 <!-- <div class="about-stats professional-stats"> -->
                 <div class="row">
 
-                    <!-- <div class="col-md-4">
-                        <div class="stat-item professional-stat-item position-relative text-center">
-                            <div class="stat-visual d-flex flex-column align-items-center justify-content-center">
-                                <svg class="counter-svg" viewBox="0 0 100 100">
-                                    <circle cx="50" cy="50" r="45" fill="none" stroke="rgba(59, 130, 246, 0.2)" stroke-width="2" />
-                                    <circle class="progress-circle" cx="50" cy="50" r="45" fill="none" stroke="#3b82f6" stroke-width="3"
-                                        stroke-dasharray="283" stroke-dashoffset="283" transform="rotate(-90 50 50)" />
-                                </svg>
-                                <div class="">
-                                    <div class="stat-number-container  p-2">
-                                        <div class="d-flex flex-col justify-content-center align-items-center ">
-                                            <span class="stat-number animated-counter text-color-1 d-block mb-2 font-semibold" data-target="750" data-suffix="+">0</span>
-
-                                        </div>
-                                    </div>
-                                    <span class="stat-label level-7 text-uppercase text-white">Enterprise Projects</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
 
                     <div class="col-md-4">
                         <div class="p-3 d-flex justify-content-center flex-column align-items-center">
@@ -333,14 +333,13 @@
                             </div>
 
                             <p class="testimonial-text text-white fw_reg mb-4">
-                                "Core Vision's enterprise solutions transformed our digital infrastructure completely. Their innovative AI approach and attention to detail resulted in a platform that exceeded all our expectations."
-                            </p>
+The team transformed our website and digital strategy. Our traffic and engagement have skyrocketed! Their expertise in design, SEO, and content has truly boosted our online presence                            </p>
 
                             <div class="d-flex align-items-center border-top border-secondary pt-3">
                                 <div class="avatar-placeholder me-3"></div>
                                 <div>
-                                    <p class="fw_bold text-white mb-0">Alex Ryder</p>
-                                    <p class="text-info small mb-0">CTO, Zenith Corp</p>
+                                    <p class="fw_bold text-white mb-0">Sarah K</p>
+                                    <p class="text-info small mb-0">Marketing Director</p>
                                 </div>
                             </div>
 
@@ -392,14 +391,14 @@
                             </div>
 
                             <p class="testimonial-text text-white fw_reg mb-4">
-                                "Core Vision's enterprise solutions transformed our digital infrastructure completely. Their innovative AI approach and attention to detail resulted in a platform that exceeded all our expectations."
+                                Thanks to their expertise, our online presence is stronger than ever. Highly recommended!
                             </p>
 
                             <div class="d-flex align-items-center border-top border-secondary pt-3">
                                 <div class="avatar-placeholder me-3"></div>
                                 <div>
-                                    <p class="fw_bold text-white mb-0">Alex Ryder</p>
-                                    <p class="text-info small mb-0">CTO, Zenith Corp</p>
+                                    <p class="fw_bold text-white mb-0">Lina M</p>
+                                    <p class="text-info small mb-0">Startup Founder</p>
                                 </div>
                             </div>
 
@@ -420,7 +419,7 @@
             <div class="col-md-12">
                 <div class="col-md-8 mx-auto position-relative text-center mb-5">
                     <h2 class="reifilano-semibold level-1 text-uppercase text-white mb-3">FREQUENTLY ASKED QUESTIONS</h2>
-                    <p class="text-white fw_med level-5">Your questions answered about our quantum-powered services</p>
+                    <p class="text-white fw_med level-5">Do you have any questions? We have the answers. These are some of the most frequently asked questions concerning our digital services, which range from content production, SEO, and digital marketing to web development and WordPress solutions. Please contact us if your question isn't answered here; we're always pleased to assist you.</p>
                     <div class="title-glow quantum-glow"></div>
                     <div class="ai-particles position-absolute top-50 start-50"></div>
                 </div>

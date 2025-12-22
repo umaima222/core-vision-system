@@ -2,11 +2,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- Site Title -->
-<title>Website Title</title>
+<title>core vsion system </title>
 <!-- Site Title -->
 
 <!-- Favicon -->
-<link rel="icon" type="img/header-logo.png" href="img/home/favicon.png">
+<link rel="icon" type="img/favicon.ico" href="img/favicon.ico">
 <!-- Site Title -->
 
 <!-- Bootstrap CSS -->

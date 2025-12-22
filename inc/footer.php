@@ -2,7 +2,7 @@
     <div class="container">
 
         <!-- Top Footer Content -->
-        <div class="row footer-content py-4">
+        <div class="row footer-content py-5">
 
             <!-- Brand Section -->
             <div class="col-md-4 footer-brand quantum-brand text-center text-md-start mb-4 mb-md-0">
@@ -25,32 +25,32 @@
                 </div>
             </div>
             <div class="col-md-3 footer-column quantum-column mb-3 mb-md-0">
-                <h4 class="footer-heading morphing-text">Services</h4>
-                <ul class="footer-list quantum-list list-unstyled">
-                    <li><a href="#" class="quantum-link">Digital Innovation</a></li>
-                    <li><a href="#" class="quantum-link">AI Integration</a></li>
-                    <li><a href="#" class="quantum-link">3D Experiences</a></li>
-                    <li><a href="#" class="quantum-link">Quantum Computing</a></li>
+                <h4 class="footer-heading morphing-text fw_bold text-uppercase">Services</h4>
+                <ul class="footer-list quantum-list list-unstyled d-flex flex-column gap-2">
+                    <li><a href="service.php" class="quantum-link text-white text-decoration-none fw_reg text-capitalize level-6">website development </a></li>
+                    <li><a href="service.php" class="quantum-link text-white text-decoration-none fw_reg text-capitalize level-6">app development</a></li>
+                    <li><a href="service.php" class="quantum-link text-white text-decoration-none fw_reg text-capitalize level-6">seo</a></li>
+                    <li><a href="service.php" class="quantum-link text-white text-decoration-none fw_reg text-capitalize level-6">marketing</a></li>
                 </ul>
             </div>
 
             <div class="col-md-2 footer-column quantum-column mb-3 mb-md-0">
-                <h4 class="footer-heading morphing-text">Company</h4>
-                <ul class="footer-list quantum-list list-unstyled">
-                    <li><a href="#" class="quantum-link">About Us</a></li>
-                    <li><a href="#" class="quantum-link">AI Research</a></li>
-                    <li><a href="#" class="quantum-link">Quantum Careers</a></li>
-                    <li><a href="#" class="quantum-link">Neural Contact</a></li>
+                <h4 class="footer-heading morphing-text fw_bold text-uppercase">Company</h4>
+                <ul class="footer-list quantum-list list-unstyled d-flex flex-column gap-2">
+                    <li><a href="about.php" class="quantum-link text-white text-decoration-none fw_reg text-capitalize level-6">About Us</a></li>
+                    <li><a href="testimonial.php" class="quantum-link text-white text-decoration-none fw_reg text-capitalize level-6">testimonial</a></li>
+                    <li><a href="service.php" class="quantum-link text-white text-decoration-none fw_reg text-capitalize level-6">services</a></li>
+                    <!-- <li><a href="#" class="quantum-link text-white text-decoration-none fw_reg text-capitalize level-6">Neural Contact</a></li> -->
                 </ul>
             </div>
 
             <div class="col-md-3 footer-column quantum-column">
-                <h4 class="footer-heading morphing-text"> Contact</h4>
-                <ul class="footer-list quantum-list list-unstyled">
-                    <li><a href="#" class="quantum-link">ai@corevision.com</a></li>
-                    <li><a href="#" class="quantum-link">+1 (555) QUANTUM</a></li>
-                    <li><a href="#" class="quantum-link">San Francisco, CA</a></li>
-                    <li><a href="#" class="quantum-link">AI Support Center</a></li>
+                <h4 class="footer-heading morphing-text fw_bold text-uppercase"> Contact</h4>
+                <ul class="footer-list quantum-list list-unstyled d-flex flex-column gap-2">
+                    <li><a href="#" class="quantum-link text-white text-decoration-none fw_reg text-capitalize level-6">corevision.com</a></li>
+                    <li><a href="#" class="quantum-link text-white text-decoration-none fw_reg text-capitalize level-6">+1 (555) 2233</a></li>
+                    <li><a href="#" class="quantum-link text-white text-decoration-none fw_reg text-capitalize level-6">San Francisco, CA</a></li>
+                    <!-- <li><a href="#" class="quantum-link text-white text-decoration-none fw_reg text-capitalize level-6">AI Support Center</a></li> -->
                 </ul>
             </div>
 
@@ -60,7 +60,7 @@
     <!-- Bottom Footer -->
  <div class="container-fluid footer-bottom-bg mt-4">
    <div class=" quantum-bottom text-center py-3">
-        <p class="text-white fw_reg">&copy; 2024 CORE VISION. All rights reserved. | Quantum Privacy Policy | AI Terms of Service</p>
+        <p class="text-white fw_reg">&copy; 2024 CORE VISION. All rights reserved. </p>
         <div class="quantum-footer-particles mt-2"></div>
     </div>
     </div>

@@ -43,13 +43,15 @@
             <!-- Menu -->
             <ul class="nav-menu d-flex list-unstyled m-0 gap-4">
                
-                    <li><a href="home2.php" class="nav-link quantum-link text-secondary level-5 text-uppercase fw_med position-relative text-decoration-none">HOME</a></li>
-                    <li><a href="service.php" class="nav-link quantum-link text-secondary level-5 text-uppercase fw_med position-relative text-decoration-none">SERVICES</a></li>
-                    <li><a href="about.php" class="nav-link quantum-link text-secondary level-5 text-uppercase fw_med position-relative text-decoration-none">ABOUT</a></li>
-                    <li><a href="testimonial.php" class="nav-link quantum-link text-secondary level-5 text-uppercase fw_med position-relative text-decoration-none">TESTIMONIALS</a></li>
-                    <li><a href="#contact" class="nav-link quantum-link text-secondary level-5 text-uppercase fw_med position-relative text-decoration-none">CONTACT</a></li>
+                    <li><a href="home2.php" class="nav-link quantum-link text-white level-5 text-uppercase fw_med position-relative text-decoration-none">HOME</a></li>
+                    <li><a href="service.php" class="nav-link quantum-link text-white level-5 text-uppercase fw_med position-relative text-decoration-none">SERVICES</a></li>
+                    <li><a href="about.php" class="nav-link quantum-link text-white level-5 text-uppercase fw_med position-relative text-decoration-none">ABOUT</a></li>
+                    <li><a href="testimonial.php" class="nav-link quantum-link text-white level-5 text-uppercase fw_med position-relative text-decoration-none">TESTIMONIALS</a></li>
+                    <!-- <li><a href="#contact" class="nav-link quantum-link text-secondary level-5 text-uppercase fw_med position-relative text-decoration-none">CONTACT</a></li> -->
             </ul>
-
+ <a href="" class="btn btn-liquid position-relative border-0 rounded-pill px-4 py-3 text-white  reifilano-med level-5 overflow-hidden text-uppercase " data-text="GET PROPOSAL">
+                    <span class="btn-text">contact us  </span>
+                </a>
             <!-- Toggle -->
             <div class="nav-toggle  flex-column gap-1 position-relative">
                 <span></span><span></span><span></span>
