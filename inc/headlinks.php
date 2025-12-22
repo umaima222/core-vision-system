@@ -8,7 +8,8 @@
 <!-- Favicon -->
 <!-- <link rel="icon" href="/favicon.ico"> -->
 <link rel="icon" href="https://corevisionsystems.com/img/favicon.ico" type="image/x-icon">
-<link rel="icon" href="https://corevisionsystems.com/img/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://corevisionsystems.com/img/favicon.ico" type="image/x-icon">
+
 
 
 
