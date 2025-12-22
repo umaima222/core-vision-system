@@ -11,7 +11,7 @@
         <div class="row align-items-center ">
             <div class="hero-content z-index-2 text-center px-3 " style=" transform-style: preserve-3d">
                 <div class="hero-text">
-                    <h1 class="reifilano-semibold main_heading text-uppercase text-white" data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">core vison system</h1>
+                    <h1 class="reifilano-semibold main_heading text-uppercase text-white" data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">corevision system</h1>
                 </div>
                 <p class="mt-4 text-white fw_med level-5 " id="hero-para" data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">
 We deliver comprehensive digital solutions that help businesses grow and succeed online. From custom web and app development to WordPress, content creation, SEO, and digital marketing, we combine innovation, creativity, and technology to build powerful digital experiences that drive measurable results and long-term success                </p>
