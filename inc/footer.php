@@ -47,9 +47,9 @@
             <div class="col-md-3 footer-column quantum-column">
                 <h4 class="footer-heading morphing-text fw_bold text-uppercase"> Contact</h4>
                 <ul class="footer-list quantum-list list-unstyled d-flex flex-column gap-2">
-                    <li><a href="#" class="quantum-link text-white text-decoration-none fw_reg text-capitalize level-6">corevision.com</a></li>
-                    <li><a href="#" class="quantum-link text-white text-decoration-none fw_reg text-capitalize level-6">+1 (555) 2233</a></li>
-                    <li><a href="#" class="quantum-link text-white text-decoration-none fw_reg text-capitalize level-6">San Francisco, CA</a></li>
+                    <li><a href="https://corevisionsystems.com" class="quantum-link text-white text-decoration-none fw_reg text-capitalize level-6">Corevisionsystems.com</a></li>
+                    <li><a href="#" class="quantum-link text-white text-decoration-none fw_reg text-capitalize level-6">+1 (825) 886-1403</a></li>
+                    <li><a href="#" class="quantum-link text-white text-decoration-none fw_reg text-capitalize level-6">2064 49A Street NW Edmonton, AB, Canada</a></li>
                     <!-- <li><a href="#" class="quantum-link text-white text-decoration-none fw_reg text-capitalize level-6">AI Support Center</a></li> -->
                 </ul>
             </div>

@@ -20,7 +20,7 @@
             <!-- <div class="about-content"> -->
             <!-- <div class="about-text professional-about-text"> -->
             <div class="col-md-6">
-                <h2 class="section-title professional-section-title reifilano-semibold level-1 text-uppercase text-white mb-3">ABOUT CORE VISION</h2>
+                <h2 class="section-title professional-section-title reifilano-semibold level-1 text-uppercase text-white mb-3">ABOUT COREVISION</h2>
                   <p class="about-description professional-description text-white fw_reg  level-6">
 Our speciality at <span class="pink-neon text-uppercase">core vison system </span> is providing all-inclusive digital solutions that support companies' online expansion and success. We offer all of your brand's needs under one roof, including content creation, SEO, digital marketing, WordPress websites, and custom web and app development.
                 </p>

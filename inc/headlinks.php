@@ -2,22 +2,21 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- Site Title -->
-<title>core vsion system </title>
+<title>Corevision System </title>
 <!-- Site Title -->
 
 <!-- Favicon -->
-<!-- <link rel="icon" href="/favicon.ico"> -->
-<!-- <link rel="icon" href="https://corevisionsystems.com/img/favicon.ico" type="image/x-icon"> -->
-<!-- <link rel="shortcut icon" href="https://corevisionsystems.com/img/favicon.ico" type="image/x-icon"> -->
-<!-- <link rel="icon" href="favicon.ico" type="image/favicon.ico" sizes="any">
-<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png"> -->
+
+
+<!-- <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="shortcut icon" href="/favicon-32x32.png"> -->
+<link rel="shortcut icon" href="/favicon.ico">
+
+<link rel="icon" type="image/png" sizes="48x48" href="/favicon-48x48.png">
 
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="shortcut icon" href="/favicon-32x32.png">
 
-
-<!-- <link rel="icon" type="favicon" sizes="32x32" href="/favicon.ico"> -->
-<!-- <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.ico"> -->
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
 <!-- Site Title -->
 

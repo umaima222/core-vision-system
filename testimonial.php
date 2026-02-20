@@ -31,7 +31,7 @@
                         </div>
 
                         <p class="testimonial-text text-white fw_reg mb-4">
-                            "Core Vision's enterprise solutions transformed our digital infrastructure completely. Their innovative AI approach and attention to detail resulted in a platform that exceeded all our expectations."
+                            "CoreVision's enterprise solutions transformed our digital infrastructure completely. Their innovative AI approach and attention to detail resulted in a platform that exceeded all our expectations."
                         </p>
 
                         <div class="d-flex align-items-center border-top border-secondary pt-3">
@@ -89,7 +89,7 @@
                         </div>
 
                         <p class="testimonial-text text-white fw_reg mb-4">
-                            "Core Vision's enterprise solutions transformed our digital infrastructure completely. Their innovative AI approach and attention to detail resulted in a platform that exceeded all our expectations."
+                            "CoreVision's enterprise solutions transformed our digital infrastructure completely. Their innovative AI approach and attention to detail resulted in a platform that exceeded all our expectations."
                         </p>
 
                         <div class="d-flex align-items-center border-top border-secondary pt-3">
